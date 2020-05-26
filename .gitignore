@@ -1,0 +1,11 @@
+# IDEs
+.idea
+.idea_modules
+
+# General Build
+**/target/
+**/build/
+**/logs/
+*.log
+*.class
+out/
