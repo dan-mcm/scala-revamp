@@ -1,12 +1,12 @@
 import Versions._
 
 name := "hello-world"
+version := "1.0"
+
 organization := "ie.mcmahon"
 organizationName := "McMahon"
 
 scalaVersion := "2.13.1"
-
-version := "1.0"
 
 libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-core" % catsCore,
